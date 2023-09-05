@@ -133,7 +133,8 @@ int main()
 	 printf("Escolha a opção deseja no menu:\n\n");
 	 printf("\t1 - Registrar nomes\n");
 	 printf("\t2 - Consultar nomes\n");
-	 printf("\t3 - Deletar nomes\n\n");// fim do menu
+	 printf("\t3 - Deletar nomes\n");
+	 printf("\t4 - Sair do sistema\n\n"); // fim do menu 
   
       scanf("%d" , &opcao); // armazenando a escolha do usuário
 	               	   
